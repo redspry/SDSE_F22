@@ -1,0 +1,7 @@
+,Prediction,Actual,Image Number
+0,R_W_3,L_3,Conv_L_3_1.jpg
+11,R_W_3,L_3,Conv_L_3_2.jpg
+16,R_W_3,L_3,Conv_L_3_3.jpg
+45,R_W_3,L_W_3,Conv_L_W_3_1.jpg
+66,R_W_3,R_3,Conv_R_3_17.jpg
+75,L_50,R_50,Conv_R_50_1.jpg
